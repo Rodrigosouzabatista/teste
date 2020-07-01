@@ -7,5 +7,7 @@ int main(){
 		cout << "Ola mundo\n";
 		
 	}
-	cout << "sem porteira";
+	cout << "sem porteira\n";
+	cout << "mais com porta";
+	
 }
